@@ -1,6 +1,6 @@
 <br clear="both">
 
-<div align="right">
+<div align="center">
   <img height="208" src="https://github.com/Ranjeet-8065/Ranjeet-8065/blob/main/Ranjeet1.gif"  />
 </div>
 
